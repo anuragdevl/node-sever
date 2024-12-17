@@ -6,3 +6,4 @@ create a server
 listen to port 7777
 write  requiest hanlder for /test, /hello
 install nodemon and update script inside package.json
+order of the routes matter 
